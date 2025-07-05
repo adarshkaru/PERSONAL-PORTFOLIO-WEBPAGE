@@ -15,7 +15,7 @@
 
 - **Mentor:** Neela Santhosh
 
-# 🌐 Developer Portfolio - Bowrothu Tarun
+# 🌐 Developer Portfolio - KARU ADARSH
 
 Welcome to my personal **developer portfolio website** — a beautifully crafted, fully responsive, and interactive web application built using modern web development technologies. This site serves as my digital identity, showcasing my skills, projects, and journey as a web developer, open-source contributor, and computer science student.
 
@@ -106,6 +106,6 @@ I’m a final-year Computer Science undergraduate who’s passionate about build
 
 ---
 
-> Built with ❤️ by Bowrothu Tarun — Thank you for visiting!
+> Built with ❤️ by KARU ADARSH — Thank you for visiting!
 
 Happy coding!
